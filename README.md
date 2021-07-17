@@ -1,0 +1,1 @@
+# CF-Rating-Checker
